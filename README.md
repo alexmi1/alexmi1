@@ -2,7 +2,7 @@
 
 👉 Currently working on my first RTS game on Steam, [Fierce Kingdoms](https://store.steampowered.com/app/3406130/Fierce_Kingdoms/).
 
-💬 **C++** and **JavaScript** are the languages I have used the most, but not necessarily my favorites. Faves are probably **C++** and **C**.
+💬 **C** is my favorite programming language.
 
 🔍 Mostly interested in low-level programming. But I also enjoy web and game development.
 
